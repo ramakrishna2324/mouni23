@@ -8,5 +8,5 @@ sudo service docker start
 sudo start ecs
 
 #Adding cluster name in ecs config
-echo ECS_CLUSTER=openapi-devl-cluster >> /etc/ecs/ecs.config
+echo ECS_CLUSTER=Test-cluster >> /etc/ecs/ecs.config
 cat /etc/ecs/ecs.config | grep "ECS_CLUSTER"
