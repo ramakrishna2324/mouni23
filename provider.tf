@@ -4,7 +4,7 @@ provider "aws" {
   /* assume_role {
             role_arn     = "arn:aws:iam::15xxxxxx:role/pnl-ss-allowterraform"
         } */
-  access_key = "AKIASVYEHVGAJFRC42W5"
+  access_key = ""
 
-  secret_key = "7nyl3ogEbC7JL4ziz4nfR91wxhwgpCfegBQbGmBT"
+  secret_key = ""
 }
