@@ -1,9 +1,3 @@
-subnet1 = "subnet-0398513f83485d3d8" #CHANGE THIS
-subnet2 = "subnet-05ac6fcf5a6c4d8cb" #CHANGE THIS
+subnet1 = "subnet-ID" #CHANGE THIS
+subnet2 = "subnet-ID" #CHANGE THIS
 internal = "true"
-oidc_provider_metadata_url = "https://sso-dev.johndeere.com/oauth2/ausgnh1wz9YPiUXDW0h7/.well-known/openid-configuration"
-oidc_redirect_uri = "https://openapi-devl.deere.com"
-oidc_client_secret = "7mnC4hEULL8TcUijDOAKZEstFMwcwbk-Un8K206l"
-oidc_client_id = "0oale1h56h9kktz3n0h7"
-oidc_client_scope = "openid profile email"
-oidc_crypto_passphrase = "swagger"
